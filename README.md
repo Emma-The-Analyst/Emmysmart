@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmysmart
+- 👋 Hi, I’m @Emmanuel
 - 👀 I’m interested in everything Data 
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on data analysis projects
